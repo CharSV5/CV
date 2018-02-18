@@ -1,6 +1,6 @@
 ## Charlene Bastians
 
-I'm a makers academy student who loves problem solving and learning to write code. I have learned a great deal about Ruby and how to build simple programmes. I would ideally love to work as a junior web developer in an environment which encourages me to think for myself and to encourage my proffesional development. 
+I'm a makers academy student who loves problem solving and learning to write code. I have learned a great deal about Ruby and how to build simple programmes. I would ideally love to work as a junior web developer in an environment which encourages me to think for myself and encourages my proffesional development. 
 <!--- 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
  ---> 
@@ -51,3 +51,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Company Name** (start_date to end_date)   
 *Your job title*  
 --->
+
+## Interests
+
+Science, technology, motorsport, Science Fiction, Photography and photo editing.
