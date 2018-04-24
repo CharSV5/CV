@@ -10,8 +10,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | Title | Timeframe | Description  | Technologies |
 |---|---|---|---|
 | [Chitter Challenge](https://github.com/CharSV5/chitter-challenge.git)  | 1 Weekend  | Built a full stack Twitter clone using Ruby and Postgres | Ruby, RSpec, Sinatra, PostgreSQL |
-| [Bowling Challenge](https://github.com/CharSV5/bowling-challenge.git) | 1 Weekend
-| A single page, front end app which records the scores from a game of Bowling | Javascript, Jquery |
+| [Bowling Challenge](https://github.com/CharSV5/bowling-challenge.git) | 1 Weekend |
+A single page, front end app which records the scores from a game of Bowling | Javascript, JQuery |
 
 #### Ruby, Javascript
 
