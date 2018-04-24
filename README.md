@@ -9,7 +9,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Title | Timeframe | Description  | Technologies |
 |---|---|---|---|
-| [Chitter Challenge](https://github.com/CharSV5/chitter-challenge.git)  | 1 Weekend  | Built a full stack Twitter clone using Ruby and Postgres | 
+| [Chitter Challenge](https://github.com/CharSV5/chitter-challenge.git)  | 1 Weekend  | Built a full stack Twitter clone using Ruby and Postgres | Ruby, RSpec, Sinatra, PostgreSQL |
 
 #### Ruby, Javascript
 
