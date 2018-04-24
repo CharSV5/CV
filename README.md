@@ -1,13 +1,15 @@
 ## Charlene Bastians
 
-I'm a makers academy student who loves problem solving and learning to write code. I have learned a great deal about Ruby and how to build simple programmes. I would ideally love to work as a junior web developer in an environment which encourages me to think for myself and encourages my proffesional development. 
-<!--- 
+I am a software developer trained at Makers Academy, during my time at Makers, I developed a good understanding of how to build full stack apps using Ruby and Javascript, I am looking for full stack or front end jobs.
+<!---
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
- ---> 
+ --->
 
-## Skills
+## Projects
 
-#### Ruby
+| [Chitter Challenge](https://git@github.com:CharSV5/chitter-challenge.git)  | 1 Weekend  | Built a Twitter clone using
+
+#### Ruby, Javascript
 
 Good beginner knowledge of Ruby.
 
