@@ -1,6 +1,6 @@
 ## Charlene Bastians
 
-I am a software developer trained at Makers Academy, during my time at Makers, I developed a good understanding of how to build full stack apps using Ruby and Javascript, I am looking for full stack or front end jobs.
+I am a software developer trained at Makers Academy. During my time at Makers I developed a good understanding of how to build full stack apps using Ruby and Javascript. I thoroughly enjoy programming as it lets me be both creative and analytical. I am looking for full stack or front end jobs.
 <!---
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
  --->
@@ -51,7 +51,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 I was previously working as a private maternity nurse worldwide. Part of this work was being self reliant, organised, staying up to date with the latest health and safety guidelines and a lot of reflection on how to improve on my daily performance.
 
-I have also worked in the travel industry, both as a travel agent and also as a flight attendant. My love of travel made these excellent roles for me and made me quite familiar with the travel industry. 
+I have also worked in the travel industry, both as a travel agent and also as a flight attendant. My love of travel made these excellent roles for me and made me quite familiar with the travel industry.
 
 
 ## Interests
