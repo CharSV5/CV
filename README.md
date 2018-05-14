@@ -61,4 +61,4 @@ I have also worked in the travel industry, both as a travel agent and also as a 
 
 ## Interests
 
-Science, technology, writing, cinema, motorsport, Science Fiction, Photography and photo editing.
+Science, technology, music, live concerts, travel, writing, cinema, motorsport, Science Fiction, Photography and photo editing.
