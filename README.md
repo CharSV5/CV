@@ -1,6 +1,6 @@
 ## Charlene Bastians
 
-I am a software developer trained at Makers Academy. During my time at Makers I developed a good understanding of how to build full stack apps using Ruby and Javascript. I thoroughly enjoy programming as it lets me be both creative and analytical. I am looking for a company with a good attitude towards diversity and culture to guide me on my journey as a Junior Developer. I am willing to take on any language as I was taught to be language agnostic, I am also willing to work as Front End, Back End or Full Stack Developer.
+I am a software developer trained at Makers Academy. During my time at Makers I developed a good understanding of how to build full stack apps using mainly Ruby and Javascript, although Makers teach you to be language agnostic and I feel I can take on any new language. I thoroughly enjoy programming as it lets me be both creative and analytical. I am looking for a company with a good attitude towards diversity and culture to guide me on my journey as a Junior Developer. I am willing to take on any language as I was taught to be language agnostic, I am also willing to work as Front End, Back End or Full Stack Developer.
 <!---
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
  --->
