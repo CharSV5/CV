@@ -59,6 +59,10 @@ I was previously working as a private maternity nurse worldwide. Part of this wo
 
 I have also worked in the travel industry, both as a travel agent and also as a flight attendant. My love of travel made these excellent roles for me and made me quite familiar with the travel industry.
 
+I have 18 years worth of work experience in total, all of which has been customer/client focused in some way. This has made me aware of how to cultivate a healthy relationship with clients and manage expectations.
+
+I have worked in every type of office and bring with me a wealth of work-place experience. 
+
 
 ## Interests
 
