@@ -15,7 +15,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Title | Timeframe | Description  | Technologies |
 |---|---|---|---|
-| [React Calculator](https://github.com/CharSV5/calc-simple) | 1-2 weeks | Built a calculator with React, including a basic UI | Javascript, React, Jest, CSS |
+| [React Calculator](https://github.com/CharSV5/calc-simple) | 1-2 weeks | Built a calculator with React, including a basic UI | Javascript, React, CSS |
 | [Chitter Challenge](https://github.com/CharSV5/chitter-challenge.git)  | 1 Weekend | Built a full stack Twitter clone using Ruby and PostgreSQL | Ruby, RSpec, Sinatra, Rackup, HTML, CSS, PostgreSQL |
 | [Bowling Challenge](https://github.com/CharSV5/bowling-challenge.git) | 1 Weekend | A single page app which records the scores from a game of Bowling | Javascript, JQuery, HTML, CSS |
 | [Acebook](https://github.com/CharSV5/acebook-byte-3) | 2 Weeks | Group engineering project where we had to make a Facebook clone with Ruby on Rails | Ruby, Ruby on Rails, Rspec, HTML, CSS, Javascript, Jquery, Heroku, AWS S3, PostgreSQL. Travis CI, Codeclimate, Rubocop, PSequel |
